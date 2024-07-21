@@ -4,7 +4,7 @@ import json
 import time
 import logging
 import pandas as pd
-import matplotlib.pyplot as plt
+import matplotlib as plt
 import seaborn as sns
 import folium
 from streamlit_folium import st_folium
