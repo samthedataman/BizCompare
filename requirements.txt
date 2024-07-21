@@ -1,6 +1,5 @@
 altair
 attrs
-backports.zoneinfo
 blinker
 branca
 cachetools
