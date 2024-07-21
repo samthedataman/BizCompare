@@ -1,0 +1,4 @@
+2024-07-20 23:40:07,445 - INFO - Data saved to specialty_bars_us_cities.json
+2024-07-20 23:40:07,449 - INFO - Search complete. All data saved.
+2024-07-20 23:41:22,713 - INFO - Data saved to specialty_bars_us_cities.json
+2024-07-20 23:41:22,717 - INFO - Search complete. All data saved.
